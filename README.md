@@ -1,9 +1,5 @@
 # 🛒 E-Commerce Platform with Admin Dashboard
 
-[![.NET Core](https://img.shields.io/badge/.NET%20Core-6.0-blue)](https://dotnet.microsoft.com/)
-[![Entity Framework Core](https://img.shields.io/badge/EF%20Core-7.0-green)](https://docs.microsoft.com/en-us/ef/core/)
-[![License](https://img.shields.io/badge/License-MIT-red)](LICENSE)
-
 A scalable E-Commerce Platform built with **.NET Core MVC**, featuring a customer-facing store and an admin dashboard. Designed to showcase modern backend development practices, including RESTful APIs, Dependency Injection, and CI/CD pipelines.
 
 ## 🚀 Features
